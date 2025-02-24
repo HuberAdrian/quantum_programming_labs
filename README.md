@@ -9,6 +9,9 @@ A comprehensive introduction to quantum computing basics and Qiskit implementati
 - [**quantum_programming_labs/fundamentals/fundamentals.ipynb**](fundamentals/basic_circuits.ipynb)
 - [**quantum_programming_labs/fundamentals/sampler_and_estimators.ipynb**](fundamentals/sampler_and_estimators.ipynb)
 
+<br>
+
+
 ### Quantum Algorithms
 Implementation and analysis of key quantum algorithms:
 
@@ -22,7 +25,11 @@ Implementation of QAOA for solving combinatorial optimization problems, demonstr
 
 #### Quantum Machine Learning (QML)
 Exploration of quantum-enhanced machine learning techniques, focusing on quantum kernels and QSVM implementation.
-- [**quantum_programming_labs/algorithms/qml_implementation.ipynb**](algorithms/qml_implementation.ipynb)
+- [**quantum_programming_labs/algorithms/QML_Overview_and_QSVM_Implementation.ipynb**](algorithms/QML_Overview_and_QSVM_Implementation.ipynb)
+
+
+<br> 
+
 
 ### Quantum Systems
 Advanced quantum computing concepts:
@@ -33,7 +40,8 @@ Introduction to quantum error correction techniques and their implementation.
 
 #### Quantum Communication
 Exploration of quantum communication protocols and quantum key distribution.
-- [**quantum_programming_labs/quantum_systems/quantum_communication.ipynb**](quantum_systems/quantum_communication.ipynb)
+- [**quantum_programming_labs/quantum_systems/QKD.ipynb**](quantum_systems/QKD.ipynb)
+- [**quantum_programming_labs/quantum_systems/quantum_teleportation.ipynb**](quantum_systems/quantum_teleportation.ipynb)
 
 ## Requirements
 - Python 3.8+
