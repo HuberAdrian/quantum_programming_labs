@@ -6,18 +6,19 @@ This repository contains a collection of Jupyter notebooks covering various note
 
 ### Fundamentals
 A comprehensive introduction to quantum computing basics and Qiskit implementation (like quantum gates, state manipulation, and multi-qubit systems)
-- [**quantum_programming_labs/fundamentals/basic_circuits.ipynb**](fundamentals/basic_circuits.ipynb)
+- [**quantum_programming_labs/fundamentals/fundamentals.ipynb**](fundamentals/basic_circuits.ipynb)
+- [**quantum_programming_labs/fundamentals/sampler_and_estimators.ipynb**](fundamentals/sampler_and_estimators.ipynb)
 
 ### Quantum Algorithms
 Implementation and analysis of key quantum algorithms:
 
 #### Variational Quantum Eigensolver (VQE)
 Introduction to hybrid quantum-classical algorithms with focus on finding ground state energies of molecules.
-- [**quantum_programming_labs/algorithms/vqe_implementation.ipynb**](algorithms/vqe_implementation.ipynb)
+- [**quantum_programming_labs/algorithms/VQE.ipynb**](algorithms/VQE.ipynb)
 
 #### Quantum Approximate Optimization Algorithm (QAOA)
 Implementation of QAOA for solving combinatorial optimization problems, demonstrated through MaxCut examples.
-- [**quantum_programming_labs/algorithms/qaoa_implementation.ipynb**](algorithms/qaoa_implementation.ipynb)
+- [**quantum_programming_labs/algorithms/QAOA.ipynb**](algorithms/QAOA.ipynb)
 
 #### Quantum Machine Learning (QML)
 Exploration of quantum-enhanced machine learning techniques, focusing on quantum kernels and QSVM implementation.
